@@ -1,7 +1,7 @@
 #%%
 import ffmpegcv
 import socket
-from timetag_model.decoder import Detector
+from timetag_model.cvdecoder import Detector
 import tqdm
 import matplotlib.pyplot as plt
 import numpy as np
